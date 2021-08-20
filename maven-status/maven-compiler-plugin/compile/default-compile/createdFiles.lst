@@ -1,0 +1,11 @@
+luke\tem\maluks\vaccine\common\AddressDTO.class
+luke\tem\maluks\vaccine\common\MaritalStatus.class
+luke\tem\maluks\vaccine\common\Gender.class
+luke\tem\maluks\vaccine\domain\Citizen.class
+luke\tem\maluks\vaccine\repository\CitizenRepository.class
+luke\tem\maluks\vaccine\rest\CitizenServiceController.class
+luke\tem\maluks\vaccine\ServletInitializer.class
+luke\tem\maluks\vaccine\domain\CitizenRepository.class
+luke\tem\maluks\vaccine\common\CitizenDTO.class
+luke\tem\maluks\vaccine\domain\Address.class
+luke\tem\maluks\vaccine\VaccineApplication.class
